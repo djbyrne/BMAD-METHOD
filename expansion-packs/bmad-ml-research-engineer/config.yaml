@@ -1,0 +1,9 @@
+# <!-- Powered by BMAD™ Core -->
+name: bmad-ml-research-engineer
+version: 0.1.0
+short-title: ML Research Engineer Pack
+description: >-
+  Tools and resources for machine learning research engineers to develop,
+  experiment, and evaluate models.
+author: Brian (BMad)
+slashPrefix: bmadMlResearch
